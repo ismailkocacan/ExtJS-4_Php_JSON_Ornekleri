@@ -1,0 +1,6 @@
+- Anket verilerini chart nesnesi üzerinde grafiksel gösterim :
+- "SurveyResults" isminde anket sonuçlarını tutacağınız tablo oluşturun.
+- AnswerText(alfanumeric),VoteCount(numeric) alan oluşturun.
+
+İsmail Kocacan (Cross Developer)
+http://ismailkocacan.blogspot.com
